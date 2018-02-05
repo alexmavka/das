@@ -2,5 +2,5 @@
 Принимается гипотеза о равенстве ковариационных матриц.
 В программе были сгенерированы 2 класса объектов, распределенные по нормальному закону.
 Результат:
-![ ](https://github.com/alexmavka/das/blob/master/read/LDF_00_-46_1002.png)
-![ ](https://github.com/alexmavka/das/blob/master/read/LDF_00_06_1001.png)
+![ ](https://github.com/alexmavka/das/blob/master/LDF/read/LDF_00_-46_1002.png)
+![ ](https://github.com/alexmavka/das/blob/master/LDF/read/LDF_00_06_1001.png)
